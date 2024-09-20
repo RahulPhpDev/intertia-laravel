@@ -1,0 +1,6 @@
+@import './main.css';
+@import './animate.min.css';
+@import './uicons-regular-straight.css';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
